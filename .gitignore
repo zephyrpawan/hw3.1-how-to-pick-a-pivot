@@ -31,3 +31,6 @@ QuickSort10kSemi4k_Sorted_random.txt
 compile_flags.txt
 PickAPivot.txt
 
+.vscode/launch.json
+.vscode/tasks.json
+main
